@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/qttest.dir/HeartMonitor.cpp.o CMakeFiles/qttest.dir/main.cpp.o CMakeFiles/qttest.dir/moc_HeartMonitor.cxx.o  -o qttest -rdynamic -lQtCore -lQtGui -lqwt 

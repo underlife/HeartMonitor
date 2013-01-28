@@ -1,0 +1,14 @@
+#ifndef qttest_H
+#define qttest_H
+
+#include <QtGui/QMainWindow>
+
+class qttest : public QMainWindow
+{
+    Q_OBJECT
+public:
+    qttest(QWidget * parent=0);
+    virtual ~qttest();
+};
+
+#endif // qttest_H
