@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 2.6)
 find_package(Qt4 REQUIRED)
 
 include_directories(${QT_INCLUDES} ${CMAKE_CURRENT_BINARY_DIR})
-set(qttest_SRCS trayiconmanager.cpp HeartMonitor.cpp main.cpp)
+set(qttest_SRCS plot.cpp trayiconmanager.cpp HeartMonitor.cpp main.cpp)
 set(CMAKE_CXX_FLAGS                "-Wall -std=c++11")
 set (MOC  HeartMonitor.h)
 qt4_wrap_cpp (MOCS ${MOC})
