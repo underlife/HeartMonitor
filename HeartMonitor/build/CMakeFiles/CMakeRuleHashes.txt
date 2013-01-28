@@ -1,4 +1,0 @@
-# Hashes of file build rules.
-46694ff22c5da0c9a73c51f6f97c7028 moc_HeartMonitor.cxx
-435add29485075e59aa7a2d640fdeab3 moc_customwidget.cxx
-13f0c80e361bf7b9ec2e8148d8fe14e9 moc_qttest.cxx

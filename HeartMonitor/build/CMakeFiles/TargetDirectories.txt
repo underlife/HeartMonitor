@@ -1,1 +1,0 @@
-/home/michal/projects/qttest/build/CMakeFiles/HeartMonitor.dir

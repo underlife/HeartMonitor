@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wall -std=c++11 -g    CMakeFiles/HeartMonitor.dir/trayiconmanager.cpp.o CMakeFiles/HeartMonitor.dir/HeartMonitor.cpp.o CMakeFiles/HeartMonitor.dir/main.cpp.o CMakeFiles/HeartMonitor.dir/moc_HeartMonitor.cxx.o  -o HeartMonitor -rdynamic -lQtCore -lQtGui -lqwt 
